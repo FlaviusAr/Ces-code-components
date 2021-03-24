@@ -1,0 +1,18 @@
+{
+  "id": "ces-code-component-definer",
+  "name": "CES Code Component Definer",
+  "description": "This plugin splits files into Components based on code modules",
+  "version": "0.0.1",
+  "schemaVersion": "1",
+  "icon": "",
+  "commands": [
+    {
+      "id": "ces-code-component-definer",
+      "name": "CES Code Modules Component Definer",
+      "type": "componentDefiner",
+      "description": "Generates Components based on Code Modules",
+      "commandTemplate": "ces-code-component-definer --of ${outputFile} --ftg ${filesToGroup}",
+      "configurationFields": []
+    }
+  ]
+}
