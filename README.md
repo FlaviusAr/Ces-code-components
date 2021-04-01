@@ -11,12 +11,12 @@ The plugin was made so anyone could filter through all the files of a software a
 ![Alt text](https://github.com/FlaviusAr/Ces-code-components/blob/master/components-system%20overview%20components.png?raw=true "Optional Title")
 ![Alt text](https://github.com/FlaviusAr/Ces-code-components/blob/master/team-knowledge%20map.png?raw=true "Optional Title")
 
-##Tech/framework used
+## Tech/framework used
 
 Built with
 [node.js](https://github.com/nodejs)
 
-##Installation
+## Installation
 
 Ces-code-components requires [Node-js] to run(https://nodejs.org/en/)
 ```sh
@@ -26,7 +26,7 @@ cp plugin-info.json ~/.dx-platform/plugins/ces-maven-component-definer/plugin-in
 node node index.js code-component-definer --of results2.json --ftg filestogroup.txt
 ```
 
-##Contribute
+## Contribute
 
 For now,any contributions are not accepted.
 
