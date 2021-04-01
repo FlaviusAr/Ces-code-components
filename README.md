@@ -28,7 +28,7 @@ node node index.js code-component-definer --of results2.json --ftg filestogroup.
 
 ## Contribute
 
-For now,any contributions are not accepted.
+For now,contributions are not accepted.
 
 ## License
 
