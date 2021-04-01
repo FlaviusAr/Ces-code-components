@@ -25,6 +25,7 @@ npm i -g
 cp plugin-info.json ~/.dx-platform/plugins/ces-maven-component-definer/plugin-info.json
 node node index.js code-component-definer --of results2.json --ftg filestogroup.txt
 ```
+[Docker] (https://hub.docker.com/layers/flaviusar/code-component-definer/latest/images/sha256:9e52f1e1f9d0c7cdff834506414d91a6f25580865955aea4ee1d91d368c8c604)
 
 ## Contribute
 
